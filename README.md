@@ -10,14 +10,12 @@
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 
 <br>
-<br>
 
 ### 🍒Me🍒
 ---
 Hello. I'm Oh Eunjeong,  
 who dreams of becoming a talented developer
 
-<br>
 <br>
 
 ### 💻Why did I participate in KDT training?
@@ -30,14 +28,12 @@ With this experience, I can kick a soccer ball on a lawn that is better than the
 I thought it was important to lay the foundation as a developer in order to be put into the company's work.⚽
 
 <br>
-<br>
 
 ### 📈Career goals
 ---
 My goal is to work in the IT field in Europe or the United States. It is good to have a career in Korea, but I want to fulfill my dream by blending with various people and culture in a wider world.
 
 
-<br>
 <br>
 
 ### 🎯My life goal
@@ -46,12 +42,11 @@ My goal is to work in the IT field in Europe or the United States. It is good to
 Growing life 💡 I want to be a better person today than yesterday, tomorrow than today, whether it be my career or my inner self.
  
 <br>
-<br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gata96&show_icons=true&theme=radical)
 
 <br>
-<br>
+
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=gata96&theme=radical)](https://git.io/streak-stats)
 

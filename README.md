@@ -3,6 +3,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=&height=150&animation=fadeIn&section=footer&fontsize=1&text=🖱🥗☕🌍📚&fontAlign=70) 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&lines=🎇Hello+,+Gata's+World🎇&font=Redressed&size=40&height=100)](https://git.io/typing-svg)
 
+![gmmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) skswoddl16@gmail.com
+
 
 🛠Tech Stack🛠
 

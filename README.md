@@ -53,8 +53,6 @@
 <br>
 
 ### My velog latest post📑
-
-![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=gata96)](https://velog.io/@gata96)
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=gata96&color=black)](https://velog.io/@gata96)
 
 ---

@@ -1,6 +1,6 @@
 <center>
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=&height=150&animation=fadeIn&section=footer&fontsize=1&text=💻☕📖&fontAlign=70) 
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=&height=100&animation=fadeIn&section=footer&fontsize=1&text=💻☕📖&fontAlign=70) 
 
 ## 🍒Me🍒
 ### profile
@@ -10,6 +10,8 @@
 - Worked at [PDF/SOLUTIONS](https://www.pdf.com/) as a Field Support Engineer ('21, Dec.~'22, Aug.)
 - KDT Multi-Campus Full Stack Developer Python Course Training ('22, Dec.~'23, June)
 - Studying Coding ('22, Dec.~)
+  
+<br>
 
 ### Career goals
 - Aiming to become a full-stack developer.
@@ -42,15 +44,18 @@
   ![amazon_aws](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 </details>
 
+<br>
 
 ### My life goal
 - Being a person who is growing steadily.
 - Being a better person today than yesterday, tomorrow than today, whether it be my career or my inner self.
 
+<br>
 
 ### My velog latest post📑
 
-![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=gata96)]
+![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=gata96)](https://velog.io/@gata96)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=gata96&color=black)](https://velog.io/@gata96)
 
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gata96&show_icons=true&theme=radical)

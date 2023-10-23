@@ -16,25 +16,15 @@
 ![mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 
-<br>
-
 ### 🍒Me🍒
 ---
 Hello. I'm Oh Eunjeong,  
 who dreams of becoming a talented developer
 
-<br>
 
-### 💻Why did I participate in KDT training?
----
-I joined the IT Front End as a new developer on December 1, 2021.  
-However, since I had no IT major or development experience, I was not able to follow the company's work with Novase.  
-It wasn't that I didn't have a new job, but I had to go into the field right away  
-There was no learning stage of Step by Step, and I felt a great disparity between education and knowledge in the actual field.  
-With this experience, I can kick a soccer ball on a lawn that is better than the bare ground  
-I thought it was important to lay the foundation as a developer in order to be put into the company's work.⚽
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=깃허브 아이디)](https://github.com/anuraghazra/github-readme-stats)
 
-<br>
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=gata96)](https://github.com/eungyeole/velog-readme-stats)
 
 ### 📈Career goals
 ---

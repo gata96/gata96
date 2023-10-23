@@ -7,7 +7,7 @@
 - Sookmyung Women's University Bachelor's degree ('17~'22)
 - Double major in Statistics and Electronic Engineering
 - A member of [Nano-Electronics Lab](https://kimeesookmyung.wixsite.com/kimgroup) ('20~'21)
-- Worked at [PDF/SOLUTIONS](https://www.pdf.com/) as Field Support Engineer ('21, Dec.~'22, Aug.)
+- Worked at [PDF/SOLUTIONS](https://www.pdf.com/) as a Field Support Engineer ('21, Dec.~'22, Aug.)
 - KDT Multi-Campus Full Stack Developer Python Course Training ('22, Dec.~'23, June)
 - Studying Coding ('22, Dec.~)
 
@@ -49,7 +49,8 @@
 
 
 ### My velog latest post📑
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=gata96)](https://github.com/eungyeole/velog-readme-stats)
+
+![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=gata96)]
 
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gata96&show_icons=true&theme=radical)

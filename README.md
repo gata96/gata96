@@ -3,6 +3,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=&height=150&animation=fadeIn&section=footer&fontsize=1&text=💻☕📖&fontAlign=70) 
 
 ## 🍒Me🍒
+---
+`profile`
 - Sookmyung Women's University Bachelor's degree ('17~'22)
   Double major in Statistics and Electronic Engineering
 - A member of [Nano-Electronics Lab](https://kimeesookmyung.wixsite.com/kimgroup) ('20~'21)
@@ -10,9 +12,12 @@
 - KDT Multi-Campus Full Stack Developer Python Course Training ('22, Dec.~'23, June)
 - Studying Coding ('22, Dec.~)
 
+`Career goals`
+Aiming to become a full-stack developer.
+
 <details>
   <summary>
-    ✍🏼✏️📍📌What I'm learning now
+    ✏️What I'm learning now
   </summary>
   
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -38,16 +43,12 @@
   ![amazon_aws](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 </details>
 
-## 🎯Career goals
-Aiming to become a full-stack developer.
-
-## 📈My life goal
+`My life goal`
 - Being a person who is growing steadily.
 - Being a better person today than yesterday, tomorrow than today, whether it be my career or my inner self.
 
 
-
-## 📍My velog latest post
+### My velog latest post📑
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=gata96)](https://github.com/eungyeole/velog-readme-stats)
 
 <br>

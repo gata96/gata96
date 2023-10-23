@@ -11,8 +11,6 @@
 - KDT Multi-Campus Full Stack Developer Python Course Training ('22, Dec.~'23, June)
 - Studying Coding ('22, Dec.~)
 
-<br>
-
 ### Career goals
 - Aiming to become a full-stack developer.
 
@@ -45,12 +43,11 @@
 </details>
 
 
-
 ### My life goal
 - Being a person who is growing steadily.
 - Being a better person today than yesterday, tomorrow than today, whether it be my career or my inner self.
 
----
+
 ### My velog latest post📑
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=gata96)](https://github.com/eungyeole/velog-readme-stats)
 

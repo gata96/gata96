@@ -1,7 +1,24 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&lines=Hello there 🖐🏼&font=Redressed&size=40&height=100)](https://git.io/typing-svg)
+
+## 🍒Me🍒
+- Sookmyung Women's University Bachelor's degree ('17~'22)
+  Double major in Statistics and Electronic Engineering
+- A member of ![Nano-Electronics Lab](https://kimeesookmyung.wixsite.com/kimgroup) ('20~'21)
+- Worked at ![PDF/SOLUTIONS](https://www.pdf.com/) as Field Support Engineer
+- Studying Coding ('22,Dec.~)
+- KDT Multi-Campus Full Stack Developer Python Course Training ('22,Dec.~'23,June)
+
+## 📈Career goals
+Aiming to become a full-stack developer.
+
+## 🎯My life goal
+---
+Being a better person today than yesterday, tomorrow than today, whether it be my career or my inner self.
+
 <center>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=&height=150&animation=fadeIn&section=footer&fontsize=1&text=🖱🥗☕🌍📚&fontAlign=70) 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&lines=🎇Hello+,+Gata's+World🎇&font=Redressed&size=40&height=100)](https://git.io/typing-svg)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=&height=150&animation=fadeIn&section=footer&fontsize=1&text=💻☕📖&fontAlign=70) 
+
 
 
 
@@ -27,16 +44,12 @@ who dreams of becoming a talented developer
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=gata96)](https://github.com/eungyeole/velog-readme-stats)
 
 ### 📈Career goals
----
-My goal is to work in the IT field in Europe or the United States. It is good to have a career in Korea, but I want to fulfill my dream by blending with various people and culture in a wider world.
+
 
 
 <br>
 
-### 🎯My life goal
----
-
-Growing life 💡 I want to be a better person today than yesterday, tomorrow than today, whether it be my career or my inner self.
+### 
  
 <br>
 

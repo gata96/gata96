@@ -2,8 +2,8 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=&height=100&animation=fadeIn&section=footer&fontsize=1&text=💻☕📖&fontAlign=70) 
 
-## 🍒Me🍒
-### profile
+## 🍒About Me🍒
+### Profile
 - Sookmyung Women's University Bachelor's degree ('17~'22)
 - Double major in Statistics and Electronic Engineering
 - A member of [Nano-Electronics Lab](https://kimeesookmyung.wixsite.com/kimgroup) ('20~'21)

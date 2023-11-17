@@ -11,9 +11,6 @@
 - KDT Multi-Campus Full Stack Developer Python Course Training ('22, Dec.~'23, June)
 - Studying Coding ('22, Dec.~)
 
-### Contact
-- skswoddl16@gmail.com
-  
 <br>
 
 ### Career goals

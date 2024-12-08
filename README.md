@@ -9,7 +9,7 @@
 - Worked at [PDF/SOLUTIONS](https://www.pdf.com/) as a Data Scientist ('21, Dec.~'22, Aug.)
 - KDT Multi-Campus Full Stack Developer Python Course Training ('22, Dec.~'23, June)
 - Worked as a Software engineer in computer vision field ('23, Jan~'24 Aug)
-- Currently a graduate student
+- Currently a graduate student in Europe
 <br>
 
 #### 🌐 Web
@@ -44,7 +44,7 @@
 <br>
 
 ### 🎯My life goal
-- Being a person who is growing steadily whether it be my career or my inner self.
+- Being a person who is growing steadily whether it be my career as a web full stack developer. 
 
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gata96&show_icons=true&theme=radical)

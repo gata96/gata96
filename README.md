@@ -6,9 +6,9 @@
 ### Profile
 - Bachelor's degree double major in Statistics and Electronic Engineering in Sookmyung Women University ('17~'22)
 - A member of [Nano-Electronics Lab](https://kimeesookmyung.wixsite.com/kimgroup) ('20~'21)
-- Worked at [PDF/SOLUTIONS](https://www.pdf.com/) as a Field Support Engineer ('21, Dec.~'22, Aug.)
+- Worked at [PDF/SOLUTIONS](https://www.pdf.com/) as a Data Scientist ('21, Dec.~'22, Aug.)
 - KDT Multi-Campus Full Stack Developer Python Course Training ('22, Dec.~'23, June)
-- Working at AppleT as a Software engineer ('23, Jan~)
+- Working as a Software engineer ('23, Jan~)
 
 <br>
 

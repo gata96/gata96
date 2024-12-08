@@ -9,7 +9,7 @@
 - Worked at [PDF/SOLUTIONS](https://www.pdf.com/) as a Data Scientist ('21, Dec.~'22, Aug.)
 - KDT Multi-Campus Full Stack Developer Python Course Training ('22, Dec.~'23, June)
 - Worked as a Software engineer in computer vision field ('23, Jan~'24 Aug)
-
+- Currently a graduate student
 <br>
 
 #### 🌐 Web

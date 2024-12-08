@@ -6,22 +6,19 @@
 ### Profile
 - Bachelor's degree double major in Statistics and Electronic Engineering in Sookmyung Women University ('17~'22)
 - A member of [Nano-Electronics Lab](https://kimeesookmyung.wixsite.com/kimgroup) ('20~'21)
-- Worked at [PDF/SOLUTIONS](https://www.pdf.com/) as a Data Scientist ('21, Dec.~'22, Aug.)
+- Worked at [PDF/SOLUTIONS](https://www.pdf.com/) as a Data Scientist ('21, Dec.~'22, Aug.)
 - KDT Multi-Campus Full Stack Developer Python Course Training ('22, Dec.~'23, June)
-- Working as a Software engineer ('23, Jan~)
+- Worked as a Software engineer in computer vision field ('23, Jan~'24 Aug)
 
 <br>
 
-#### 🌐 Web Frameworks
+#### 🌐 Web
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-#### 🎨 Vision
+#### 🎨 Computer Vision
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
